@@ -11,8 +11,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [solution URL here](https://github.com/GeorgeAlexXenos/loopstudios_landing_page)
+- [live site URL here](https://georgealexxenos.github.io/loopstudios_landing_page/)
 
 ## My process
 
