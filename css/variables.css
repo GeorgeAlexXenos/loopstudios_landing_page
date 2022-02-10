@@ -1,0 +1,9 @@
+:root {
+  /* ### Primary */
+  --white: hsl(0, 0%, 100%);
+  --black: hsl(0, 0%, 0%);
+  --darkGray: hsl(0, 0%, 55%);
+  --veryDarkGray: hsl(0, 0%, 41%);
+  --fontfamily1: "Alata", sans-serif;
+  --fontfamily2: "Josefin Sans", sans-serif;
+}
